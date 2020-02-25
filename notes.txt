@@ -1,0 +1,18 @@
+with p1, Mult NB:
+
+precision 0.588009153318
+recall 0.460534805362
+accuracy 0.649376020527
+
+filename?p2clf1.txt
+precision 0.621546481321
+recall 0.512868305972
+accuracy 0.674889199907
+on 4000 lines
+
+filename?p2nb1.txt
+precision 0.654098959284
+recall 0.513656892967
+accuracy 0.691742477257
+
+{'a': 4538, 'i': 2883, 'e': 4824, 'u': 519, 'o': 1188}
